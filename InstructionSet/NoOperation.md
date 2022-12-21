@@ -1,0 +1,1 @@
+This instruction is designed to perform absolutly no instruction. It is used to create real time delays in the processor's execution system. The `NoOperation` command will cost the CPU 3 CPU clock ticks as usual for any other simplified instruction.
